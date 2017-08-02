@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/storefront.unity
+  isLoaded: 1
+  isActive: 1

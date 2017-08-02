@@ -1,0 +1,311 @@
+<characterDialog>
+
+  <character>
+
+    <characterName>Bann</characterName>
+    
+    <bad1>Just relax and try again.</bad1>
+    <bad2>Just take it easy, there's no rush.</bad2>
+    <bad3>You never lose as long as you're having fun.</bad3>
+
+    <normal1>Wow! You're good.</normal1>
+    <normal2>See? You can do it!</normal2>
+    <normal3>Wasn't that fun?</normal3>
+
+    <good1>Wow, you're really good at this!</good1>
+    <good2>So many points!</good2>
+    <good3>You did so well!</good3>
+
+    <great1>I'm having so much fun!</great1>
+    <great2>You really are the best!</great2>
+    <great3>I knew you were special!</great3>
+    
+  </character>
+
+  <character>
+
+    <characterName>Bella</characterName>
+    
+    <bad1>Try to feel the heart of the cards.</bad1>
+    <bad2>You need to believe if you're going to succeed.</bad2>
+    <bad3>Hmm... I don't think you're getting it...</bad3>
+
+    <normal1>That's good. Keep going.</normal1>
+    <normal2>You're finally getting it.</normal2>
+    <normal3>Channel the magic of the cards through you.</normal3>
+
+    <good1>There, now you're feeling it!</good1>
+    <good2>I'm impressed.</good2>
+    <good3>I think you're ready.</good3>
+
+    <great1>I... I've never seen such talent!</great1>
+    <great2>That... that was amazing!</great2>
+    <great3>The magic is eminating from you!</great3>
+
+  </character>
+
+  <character>
+
+    <characterName>Blane</characterName>
+
+    <bad1>SQUAWK</bad1>
+    <bad2>QUACK</bad2>
+    <bad3>BLEET</bad3>
+
+    <normal1></normal1>
+    <normal2></normal2>
+    <normal3></normal3>
+
+    <good1></good1>
+    <good2></good2>
+    <good3></good3>
+
+    <great1></great1>
+    <great2></great2>
+    <great3></great3>
+
+  </character>
+
+  <character>
+
+    <characterName>Damien</characterName>
+
+    <bad1></bad1>
+    <bad2></bad2>
+    <bad3></bad3>
+
+    <normal1></normal1>
+    <normal2></normal2>
+    <normal3></normal3>
+
+    <good1></good1>
+    <good2></good2>
+    <good3></good3>
+
+    <great1></great1>
+    <great2></great2>
+    <great3></great3>
+
+  </character>
+
+  <character>
+
+    <characterName>Finnikin</characterName>
+
+    <bad1>You can do better than that!</bad1>
+    <bad2>Ouch, that wasn't so good...</bad2>
+    <bad3>Keep trying, you can do it.</bad3>
+
+    <normal1>Not bad. Not bad at all.</normal1>
+    <normal2>You've got potential!</normal2>
+    <normal3>Ah, so close!</normal3>
+
+    <good1>Yeah! That's how you do it!</good1>
+    <good2>You're pretty good!</good2>
+    <good3>That's a great score!</good3>
+
+    <great1>Yeah! Nice work!</great1>
+    <great2>You're a true Shuffler!</great2>
+    <great3>Woah! That was amazing!</great3>
+
+  </character>
+
+  <character>
+
+    <characterName>Gwyn</characterName>
+
+    <bad1></bad1>
+    <bad2></bad2>
+    <bad3></bad3>
+
+    <normal1></normal1>
+    <normal2></normal2>
+    <normal3></normal3>
+
+    <good1></good1>
+    <good2></good2>
+    <good3></good3>
+
+    <great1></great1>
+    <great2></great2>
+    <great3></great3>
+
+  </character>
+
+  <character>
+
+    <characterName>Hector</characterName>
+
+    <bad1></bad1>
+    <bad2></bad2>
+    <bad3></bad3>
+
+    <normal1></normal1>
+    <normal2></normal2>
+    <normal3></normal3>
+
+    <good1></good1>
+    <good2></good2>
+    <good3></good3>
+
+    <great1></great1>
+    <great2></great2>
+    <great3></great3>
+
+  </character>
+
+  <character>
+
+    <characterName>Katsa</characterName>
+
+    <bad1></bad1>
+    <bad2></bad2>
+    <bad3></bad3>
+
+    <normal1></normal1>
+    <normal2></normal2>
+    <normal3></normal3>
+
+    <good1></good1>
+    <good2></good2>
+    <good3></good3>
+
+    <great1></great1>
+    <great2></great2>
+    <great3></great3>
+
+  </character>
+
+  <character>
+
+    <characterName>Mather</characterName>
+
+    <bad1></bad1>
+    <bad2></bad2>
+    <bad3></bad3>
+
+    <normal1></normal1>
+    <normal2></normal2>
+    <normal3></normal3>
+
+    <good1></good1>
+    <good2></good2>
+    <good3></good3>
+
+    <great1></great1>
+    <great2></great2>
+    <great3></great3>
+
+  </character>
+
+  <character>
+
+    <characterName>Pifoo</characterName>
+
+    <bad1></bad1>
+    <bad2></bad2>
+    <bad3></bad3>
+
+    <normal1></normal1>
+    <normal2></normal2>
+    <normal3></normal3>
+
+    <good1></good1>
+    <good2></good2>
+    <good3></good3>
+
+    <great1></great1>
+    <great2></great2>
+    <great3></great3>
+
+  </character>
+
+  <character>
+
+    <characterName>Rylan</characterName>
+
+    <bad1></bad1>
+    <bad2></bad2>
+    <bad3></bad3>
+
+    <normal1></normal1>
+    <normal2></normal2>
+    <normal3></normal3>
+
+    <good1></good1>
+    <good2></good2>
+    <good3></good3>
+
+    <great1></great1>
+    <great2></great2>
+    <great3></great3>
+
+  </character>
+
+  <character>
+
+    <characterName>Sothe</characterName>
+
+    <bad1></bad1>
+    <bad2></bad2>
+    <bad3></bad3>
+
+    <normal1></normal1>
+    <normal2></normal2>
+    <normal3></normal3>
+
+    <good1></good1>
+    <good2></good2>
+    <good3></good3>
+
+    <great1></great1>
+    <great2></great2>
+    <great3></great3>
+
+  </character>
+
+  <character>
+
+    <characterName>Wesker</characterName>
+
+    <bad1></bad1>
+    <bad2></bad2>
+    <bad3></bad3>
+
+    <normal1></normal1>
+    <normal2></normal2>
+    <normal3></normal3>
+
+    <good1></good1>
+    <good2></good2>
+    <good3></good3>
+
+    <great1></great1>
+    <great2></great2>
+    <great3></great3>
+
+  </character>
+
+  <character>
+
+    <characterName>Yuki</characterName>
+
+    <bad1>Grrrr.</bad1>
+    <bad2>MMhmph.</bad2>
+    <bad3>Whfffh.</bad3>
+
+    <normal1>I am ook</normal1>
+    <normal2>I am ert</normal2>
+    <normal3>I am just a ert</normal3>
+
+    <good1>tuku</good1>
+    <good2>yui chan</good2>
+    <good3>pooker</good3>
+
+    <great1>HROOKEN</great1>
+    <great2>HROOKEN</great2>
+    <great3>HROOKEN</great3>
+
+  </character>  
+  
+</characterDialog>
